@@ -1,3 +1,11 @@
+#$ TITLE: FlatironsFPV - DJI OSD
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: DJI 
+#$ AUTHOR: Flatirons FPV (Steve Plain)
+
+
 set osd_units = IMPERIAL
 set osd_rssi_alarm = 40
 set osd_cap_alarm = 5000

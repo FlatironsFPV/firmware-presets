@@ -161,6 +161,7 @@
       "Directory",
       "Evan Turner (Headsup)",
       "Feisar",
+      "Flatirons FPV (Steve Plain)",
       "Foxeer Harvey",
       "FPVian",
       "Garban",
@@ -3504,6 +3505,21 @@
       ],
       "author": "sugarK",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/osd/DJI OSD.txt",
+      "hash": "e64510ee5d8d05301c7f58cd8735bb46089d11904b779173a18dc955f8475d94",
+      "title": "FlatironsFPV - DJI OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "DJI"
+      ],
+      "author": "Flatirons FPV (Steve Plain)",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/rc_link/reset_to_defaults.txt",
